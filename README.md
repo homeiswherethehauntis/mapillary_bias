@@ -1,4 +1,4 @@
-# # Anonymous Review Repository
+# Anonymous Review Repository
 
 ## Reproduction Guide for Reviewers
 To facilitate a step-by-step reproduction of the results presented in the paper, all Python scripts are named according to their corresponding figures in the manuscript.
